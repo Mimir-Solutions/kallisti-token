@@ -1,11 +1,11 @@
-require("@nomiclabs/hardhat-etherscan");
+// require("@nomiclabs/hardhat-etherscan");
 require("@nomiclabs/hardhat-truffle5");
 require("@nomiclabs/hardhat-waffle");
 require("@nomiclabs/hardhat-ethers");
 require("@nomiclabs/hardhat-web3");
-require("@nomiclabs/hardhat-ganache");
+// require("@nomiclabs/hardhat-ganache");
 // require("@nomiclabs/hardhat-solpp");
-require("@nomiclabs/hardhat-solhint");
+// require("@nomiclabs/hardhat-solhint");
 require("@openzeppelin/test-helpers");
 // require("solidity-coverage");
 require("hardhat-gas-reporter");
