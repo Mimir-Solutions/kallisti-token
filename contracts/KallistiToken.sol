@@ -12,7 +12,7 @@ contract KallistiToken is Divine {
 
     uint8 public transferFeePercentageX100;
     
-    constructor () Divine( "Kallisti", "KALLI" ) {
+    constructor () Divine( "Kallisti", "KALLI", 18 ) {
         console.log("ERIS::constructor: Instantiating Kallisti");
         console.log("ERIS::constructor: Instantiated Kallisti");
     }
